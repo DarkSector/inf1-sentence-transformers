@@ -29,3 +29,8 @@ Use Neuron Top (neuron-top) utility on EC2 Inf1
 
 ### SageMaker Inference
 Simply upload the model folders and the notebook and run it through SageMaker
+
+
+## Neuron Top output
+
+![Neuron Top for sentence-transformers](https://raw.githubusercontent.com/DarkSector/inf1-sentence-transformers/main/inf1-sentence-transformers.png?token=GHSAT0AAAAAACI2NK7RFOIJNUFZDUX5AWZIZKCWGYQ)
