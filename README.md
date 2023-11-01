@@ -22,8 +22,8 @@ You can also change model_id using `--model_id` option
 
 
 ### EC2 - Inference
-Modify the batch_size and simply run
-`python inference.py`
+Modify the batch_size and simply run the following four times. Every process runs in a separate neuron core so it has to be started in background 4 times.
+`NEURON_RT_NUM_CORES=1 python inference.py &`
 Use Neuron Top (neuron-top) utility on EC2 Inf1 
 
 
