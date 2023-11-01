@@ -3,7 +3,7 @@ Sentence Transformers on EC2 Inf1 and Amazon SageMaker
 
 
 ## EC2 Inf1
-* build.py takes a static batch-size and name of model to build
+* trace-model.py takes a static batch-size and name of model to build
 * inference.py runs the traced model on a single core (Run this 4 times to start 4 different processes)
 
 
