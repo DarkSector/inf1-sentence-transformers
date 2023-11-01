@@ -32,5 +32,8 @@ Simply upload the model folders and the notebook and run it through SageMaker
 
 
 ## Neuron Top output
-4 compies of the model loaded to 4 different cores on inf1.xlarge on EC2
+
+Four copies of the same model loaded to 4 different cores on inf1.xlarge on EC2
+
+
 ![Neuron Top for sentence-transformers](https://raw.githubusercontent.com/DarkSector/inf1-sentence-transformers/main/inf1-sentence-transformers.png?token=GHSAT0AAAAAACI2NK7RFOIJNUFZDUX5AWZIZKCWGYQ)
